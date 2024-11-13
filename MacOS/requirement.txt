@@ -1,0 +1,6 @@
+pytubefix
+tkinter
+customtkinter
+requests
+Pillow
+urllib
